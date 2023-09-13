@@ -14,4 +14,3 @@ Additional information
 The website was developed in HTML5, CSS3, and JavaScript.
 The website uses the Bootstrap framework for a better user experience.
 The website is responsive for mobile devices and tablets.
-How to contribute
